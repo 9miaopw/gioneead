@@ -22,20 +22,20 @@
 #	::1             localhost
 #金立手机广告hosts
 
-127.0.0.1        *.gionee.com
-127.0.0.1        *.amigo.cn
-127.0.0.1        *.antuzhi.com
-127.0.0.1        *.91xmy.com
-127.0.0.1        *.xuanwu88.com
-127.0.0.1        *.getui.com
-127.0.0.1        *.iadmob.com
-127.0.0.1        *.yangkeduo.com
-127.0.0.1        *.tdbear.cn
-127.0.0.1        *.alibabausercontent.com
-127.0.0.1        *.yule37.cn
-127.0.0.1        *.hdslb.com
-127.0.0.1        *.zookingsoft.com
-127.0.0.1        *.wifi-baidu.com
-127.0.0.1        ada.baidu.com
-127.0.0.1        amdcopen.m.taobao.com
-127.0.0.1        *.q8q0.cn
+127.0.0.1 *.gionee.com
+127.0.0.1 *.amigo.cn
+127.0.0.1 *.antuzhi.com
+127.0.0.1 *.91xmy.com
+127.0.0.1 *.xuanwu88.com
+127.0.0.1 *.getui.com
+127.0.0.1 *.iadmob.com
+127.0.0.1 *.yangkeduo.com
+127.0.0.1 *.tdbear.cn
+127.0.0.1 *.alibabausercontent.com
+127.0.0.1 *.yule37.cn
+127.0.0.1 *.hdslb.com
+127.0.0.1 *.zookingsoft.com
+127.0.0.1 *.wifi-baidu.com
+127.0.0.1 ada.baidu.com
+127.0.0.1 amdcopen.m.taobao.com
+127.0.0.1 *.q8q0.cn
